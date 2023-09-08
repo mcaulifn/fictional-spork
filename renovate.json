@@ -11,5 +11,6 @@
       "groupName": "eslint packages",
       "separateMajorMinor": false
     }
-  ]
+  ],
+  "transitiveRemediation": true,
 }
